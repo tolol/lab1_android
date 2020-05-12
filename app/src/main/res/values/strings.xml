@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">phone_book</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="firstname_text">Firstname</string>
+    <string name="lastname_text">Lastname</string>
+    <string name="phone_text">Phone</string>
+    <string name="email_text">Email</string>
+</resources>
